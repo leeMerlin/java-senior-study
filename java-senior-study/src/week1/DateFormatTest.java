@@ -5,14 +5,12 @@
  */
 
 
-package DateFormatTest;
+package week1;
 
-import java.sql.SQLOutput;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
-import java.util.regex.Pattern;
 
 public class DateFormatTest {
     public static void main(String[] args) {
