@@ -43,5 +43,11 @@ public class StringTest {
         long over = System.currentTimeMillis();
         System.out.println("操作StringBuilder类型使用的时间为：" + (over - begin) + "毫秒");
     }
+
+    public static class NBA10MVP {
+        public static void main(String[] args) {
+            System.out.println("NBAmvp10");
+        }
+    }
 }
 
