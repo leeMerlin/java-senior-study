@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-senior-study/DateFormatTest.iml" filepath="$PROJECT_DIR$/java-senior-study/DateFormatTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patten/Design Patten.iml" filepath="$PROJECT_DIR$/Design Patten/Design Patten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket-Study/Socket-Study.iml" filepath="$PROJECT_DIR$/Socket-Study/Socket-Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing-study/Theard-study.iml" filepath="$PROJECT_DIR$/swing-study/Theard-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread-Study/Thread-Study.iml" filepath="$PROJECT_DIR$/Thread-Study/Thread-Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui-form/gui-form.iml" filepath="$PROJECT_DIR$/gui-form/gui-form.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-study/jdbc-study.iml" filepath="$PROJECT_DIR$/jdbc-study/jdbc-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing-study/swing-study.iml" filepath="$PROJECT_DIR$/swing-study/swing-study.iml" />
+    </modules>
+  </component>
+</project>
